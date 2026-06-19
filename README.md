@@ -1,4 +1,4 @@
-# flight-fare-price-prediction
+# Flight-Fare-Price-Prediction
 
 ## Author
 
